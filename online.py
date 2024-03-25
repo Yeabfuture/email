@@ -5,8 +5,8 @@ import wikipedia
 from decouple import config
 import pywhatkit as kit
 
-EMAIL = "yeabsiramersha58@gmail.com"
-PASSWORD = "erpe dnyw bxfi xsza"
+EMAIL = "yeabsiramersha@com.com"
+PASSWORD = "app password"
 
 
 def search_on_wiki(query):
